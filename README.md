@@ -3,7 +3,7 @@ Final Class Project for Santa Clara University's COEN 317: Distributed Systems
 
 This Project is an implementation of the Hybrid Peer to Peer Online Social Network model proposed by Jiwei Wang, Fangai Liu, Xu Li, Haoran Liu, Xiaohui Zhao in their paper "HPOSN: A Novel Online Social Network Model Based on Hybrid P2P". The HPOSN model was designed to address the problem of a centralized server or server cluster architecture of most social networks by adding an auxilary peer to peer network among the user's friends. In the event of a failure by the central server, the HPOSN model switches to a P2P mode in useres attempt to reconstruct a local network from their friends list to continue social network services
 
-This project was completed as part of COEN 317 - Distributed Systems at Santa Clara University 
+This project was completed as part of COEN 317 - Distributed Systems at Santa Clara University under the guidance of Professor Ramin Moazzeni
 
 ## Key Algorithms Used:
 1. Gossip Protocol: Used to dissimenate a user's information among their local network in P2P Mode
